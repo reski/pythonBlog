@@ -1,0 +1,6 @@
+*.pvc
+__pycache__
+superDjangoEnv
+.idea
+superDjangoSite/db.sqlite3
+.DS_Store
